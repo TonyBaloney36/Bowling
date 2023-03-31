@@ -19,9 +19,6 @@ function setup() {
 }
 
 function draw() {
-  console.log(drawing)
-  console.log(x)
-  console.log(y)
   background(100)
   fill(181, 52, 108)
   newPositionY = y+a
